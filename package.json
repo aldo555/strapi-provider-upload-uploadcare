@@ -1,5 +1,5 @@
 {
-  "name": "strapi-provider-upload-uploadcare",
+  "name": "@aldo555/strapi-provider-upload-uploadcare",
   "version": "0.1.0",
   "description": "Custom Uploadcare Provider for Strapi v4",
   "repository": {
